@@ -1,4 +1,4 @@
-# PowerShell-Parallel-Task-Runner
+# PowerShell-Parallel-Job-Runner
 Simple PowerShell script to run multiple commands concurrently
 
 ## Set up ##
